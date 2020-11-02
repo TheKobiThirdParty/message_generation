@@ -3,4 +3,4 @@ project(message_generation)
 
 find_package(catkin REQUIRED)
 
-catkin_package(CATKIN_DEPENDS gencpp gennodejs genmsg genpy)
+catkin_package(CATKIN_DEPENDS gencpp genmsg genpy)
